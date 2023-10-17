@@ -3,7 +3,7 @@
   "description": "Average Years of Schooling",
   "width": 600,
   "height": 500,
-  "title: {"text": "Average Salary"},
+  "title": {"text": "Average Salary"},
   "params": [
     {
       "name": "Salary_selection",
